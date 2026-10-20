@@ -82,4 +82,4 @@ Power BI Desktop, DAX, Power Query
 
 ## Author
 
-**[Your Name]** | [LinkedIn](https://linkedin.com/in/your-profile)
+**[Yasmin Kamal]** | [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yasmin-kamal-72286827b/))
